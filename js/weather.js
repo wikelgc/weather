@@ -21,7 +21,7 @@ $(document).on("pagebeforeshow", "#page1", function(){
 		showDetail();
 	});
 
-	locationQuery();
+	//locationQuery();
 
 	//地理位置查询
 	//function locationQuery(){
